@@ -1,6 +1,8 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'http://localhost:5001/api';
+// const API_BASE_URL = 'http://localhost:5001/api';
+
+const API_BASE_URL = 'https://fugitivehunt-backend.onrender.com/api';
 
 export const getCities = () => {
     return axios.get(`${API_BASE_URL}/cities`);

@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8f60be30.css",
+    "main.js": "/static/js/main.7b826cbc.js",
+    "static/media/chicago.jpeg": "/static/media/chicago.180d898c95e36aa6b764.jpeg",
+    "static/media/london.jpeg": "/static/media/london.5bb758f0259129e2ee8a.jpeg",
+    "static/media/new_york.jpeg": "/static/media/new_york.6e2205dfd04a2e5534ec.jpeg",
+    "static/media/bike.jpeg": "/static/media/bike.aae5b3a3e2caabf97782.jpeg",
+    "static/media/suv.jpeg": "/static/media/suv.5c50833b5091343723f5.jpeg",
+    "static/media/los_angeles.jpeg": "/static/media/los_angeles.3aee0ce10c84856ec6b5.jpeg",
+    "static/media/car.jpeg": "/static/media/car.ce07e74faa8e7df30608.jpeg",
+    "static/media/singapore.jpeg": "/static/media/singapore.23ebba74a1e8c5a881ce.jpeg",
+    "index.html": "/index.html",
+    "main.8f60be30.css.map": "/static/css/main.8f60be30.css.map",
+    "main.7b826cbc.js.map": "/static/js/main.7b826cbc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f60be30.css",
+    "static/js/main.7b826cbc.js"
+  ]
+}

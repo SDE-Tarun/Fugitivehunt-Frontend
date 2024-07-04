@@ -90,4 +90,4 @@ export const getVehicles = () => axios.get(`${API_BASE_URL}/vehicles`);
 export const selectVehicle = (cop, vehicle) => axios.post(`${API_BASE_URL}/select-vehicle`, { cop, vehicle });
 
 # Live URL - To check it.
-https://fugitivehunt-frontend.onrender.com
+https://fugitivehunt-frontend.onrender.com/
